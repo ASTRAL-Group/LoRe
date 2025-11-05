@@ -3,8 +3,8 @@
   <p align="center">
     <a href='https://jyzhang1208.github.io/' target='_blank'>Junyu Zhang </a><sup><img src="assets/uiuc.svg" align="center" width=0.8% >∗</sup>&emsp;
     <a href='https://yifansun99.github.io/' target='_blank'>Yifan Sun </a><sup><img src="assets/uiuc.svg" align="center" width=0.8% >∗</sup>&emsp;
-    <a href='https://scholar.google.com/citations?user=uL97fK8AAAAJ&hl=en' target='_blank'>Tianang Leng </a><sup><img src="assets/upenn.png" align="center" width=0.9% >∗</sup>&emsp;
-    <a href='https://scholar.google.com/citations?user=YBNEBucAAAAJ&hl=en' target='_blank'>Jingyan Shen </a><sup><img src="assets/nyu.png" align="center" width=1.0% >∗</sup>&emsp;
+    <a href='https://dragondescentzerotsu.github.io/' target='_blank'>Tianang Leng </a><sup><img src="assets/upenn.png" align="center" width=0.9% >∗</sup>&emsp;
+    <a href='https://jy-evangeline.github.io/' target='_blank'>Jingyan Shen </a><sup><img src="assets/nyu.png" align="center" width=1.0% >∗</sup>&emsp;
     <br>
     <a href='https://www.mit.edu/~ziyinl/' target='_blank'>Liu Ziyin </a><sup><img src="assets/mit.png" align="center" width=1.1% style="margin-right:0.1em;"><img src="assets/ntt.png" align="center" width=1.3% >&#8224</sup>&emsp;
     <a href='https://pliang279.github.io/' target='_blank'>Paul Pu Liang </a><sup><img src="assets/mit.png" align="center" width=1.1%>&#8224</sup>&emsp;
