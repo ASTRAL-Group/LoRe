@@ -34,6 +34,10 @@
     <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a>
 </p>
 
+## 🚀 News
+
+- **[2025/11]** LoRe was selected as a **Best Paper Nomination** at the NeurIPS 2025 Workshop on Efficient Reasoning.
+
 ## 🏠 About
 <div style="text-align: center;">
     <img src="assets/teaser.png" width=100% >
