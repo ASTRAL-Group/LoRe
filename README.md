@@ -24,9 +24,9 @@
 
 </p>
 <p align="center">
-  <a href='https://github.com/ASTRAL-Group/LoRe'>
-    <img src='https://img.shields.io/badge/Arxiv-2505.24863-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
-  <a href='https://github.com/ASTRAL-Group/LoRe'>
+  <a href='https://arxiv.org/abs/2512.17901'>
+    <img src='https://img.shields.io/badge/Arxiv-2512.17901-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+  <a href='https://arxiv.org/pdf/2512.17901'>
     <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'></a>
   <a href='https://lore-project.github.io/'>
     <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=Google%20chrome&logoColor=green'></a>
@@ -54,6 +54,30 @@ As a comprehensive study from theoretical hypotheses to empirical validation, we
 
 🚧 **Code release under construction — stay tuned!** 🚧
 
+## Model Zoo
+
+Our SFT-Compo models are available on [Hugging Face](https://huggingface.co/LoRe-Team) 🤗.
+
+| Model    | Size | SFT Data                                                                                              | Checkpoint                                                                                        |
+|----------|------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| SFT-Compo | 1.5B  | [deepscaler-14b-min](LLaMA-Factory/data/deepscaler-14b-min.json)  | [SFT-Compo-Distill-Qwen-1.5B](https://huggingface.co/LoRe-Team/SFT-Compo-Distill-Qwen-1.5B)       |
+| SFT-Compo | 7B  | [deepscaler-14b-min](LLaMA-Factory/data/deepscaler-14b-min.json)  | [SFT-Compo-Distill-Qwen-7B](https://huggingface.co/LoRe-Team/SFT-Compo-Distill-Qwen-7B)     |
+| SFT-Compo | 8B   | [deepscaler-14b-min](LLaMA-Factory/data/deepscaler-14b-min.json) | [SFT-Compo-Distill-Llama-8B](https://huggingface.co/LoRe-Team/SFT-Compo-Distill-Llama-8B)   |
+
+
 ## Contact
 If you have any questions related to the code or the paper, feel free to email Junyu Zhang (`junyuz6@illinois.edu`).
+
+## Citation
+
+If you find our work useful in your research, please consider citing LoRe:
+
+```
+@article{LoRe25,
+  title={When Reasoning Meets Its Laws},
+  author={Zhang, Junyu and Sun, Yifan and Leng, Tianang and Shen, Jingyan and Ziyin, Liu and Liang, Paul Pu and Zhang, Huan},
+  journal={arXiv preprint arXiv:2512.17901},
+  year={2025}
+}
+```
 
